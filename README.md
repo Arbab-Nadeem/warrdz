@@ -1,4 +1,4 @@
-# My Website
+# Warrdz
 
 This is a modern and responsive website built using **React.js (Vite)** and **Tailwind CSS**.
 
